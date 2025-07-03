@@ -2,7 +2,11 @@
 <p align="center">📚 BSIT Student | 💻 Full-stack Developer | ☁️ Aspiring Cybersecurity Specialist</p>
 
 
-I’m passionate about building full-stack web applications, designing responsive UI/UX.
+---
+
+🎓 I’m a student developer passionate about building full-stack web applications, creating responsive and user-friendly designs, and turning ideas into real digital solutions. I enjoy learning new technologies, contributing to meaningful projects, and continuously growing my skills in both development and cybersecurity.
+
+---
 
 ### 💻 Tech Stack
 
@@ -25,17 +29,20 @@ I’m passionate about building full-stack web applications, designing responsiv
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 ![Wix](https://img.shields.io/badge/-Wix-000000?logo=wix&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+---
 
 ### 📊 GitHub Stats
 
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhmkbry&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhmkbry&layout=compact&theme=tokyonight)
 
+---
+
 ### 🎯 2025 Goals
 - 💼 Land a remote job
 - 📜 Get Google Cybersecurity Certified
 - 🌍 Launch a full stack passion project publicly
-
+---
 
 <!--
 **jhmkbry/jhmkbry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
