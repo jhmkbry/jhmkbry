@@ -38,10 +38,10 @@
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 - 💼 Land a remote job
 - 📜 Get Google Cybersecurity Certified
-- 🌍 Launch a full stack passion project publicly
+- 🌍 Launch a full stack app project publicly
 ---
 
 <!--
